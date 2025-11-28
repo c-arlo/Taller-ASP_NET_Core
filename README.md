@@ -1,5 +1,5 @@
 # Descripción del proyecto
-Proyecto practico desarrollado durante el webinar "ASP REST con Node.js y Express",
+Proyecto practico desarrollado durante el webinar "API REST con Node.js y Express",
 donde se implementa una aplicación web haciendo uso del entorno Javascript para aplicaciones web de Node.js
 y el framework para backend Express.js.
 
